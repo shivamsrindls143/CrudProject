@@ -1,0 +1,7 @@
+.touch{
+  opacity:0;
+}
+
+tr:hover .touch{
+  opacity:1;
+}
